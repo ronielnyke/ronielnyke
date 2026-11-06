@@ -1,16 +1,26 @@
-## Hi there 👋
+Roniel Nyke Gonzales
 
-<!--
-**ronielnyke/ronielnyke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer | Web Developer | Information Technology Student
 
-Here are some ideas to get you started:
+Hello! I'm Roniel Nyke Gonzales from Lambunao, Iloilo, Philippines.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm an aspiring Full Stack Developer passionate about building modern websites, web applications, and software projects.
+
+Skills
+
+- HTML5
+- CSS3
+- JavaScript
+- React
+- Bootstrap
+
+Featured Projects
+
+- CodeLens AI Pro
+- Zero Trace
+- Personal Portfolio
+
+Links
+
+- GitHub: https://github.com/ronielnyke
+- Portfolio: https://ronielnyke.github.io/Owner/
